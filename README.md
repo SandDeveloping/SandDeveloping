@@ -1,8 +1,7 @@
 
 ## Heyy dev, My name is Manuel, better known than Sand Developer!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Sou desenvolvendor em buscar do FullStack!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
