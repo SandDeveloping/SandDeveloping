@@ -23,3 +23,5 @@ Sou desenvolvendor Front end em busca do Back end!
    <a href="https://discord.gg/AQkHAPchRe" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
 </div>
+
+![Cobra](https://raw.githubusercontent.com/rafaballerini/rafaballerini/b3f0627a4d59986893b502f6dc9d13ae368bbac7/github-contribution-grid-snake.svg)
