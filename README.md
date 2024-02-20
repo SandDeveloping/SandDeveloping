@@ -9,7 +9,7 @@ Sou desenvolvendor Front end em busca do Back end!
   <img align="center" alt="Sand-React" height="30" width="110" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Sand-HTML" height="30" width="80" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
   <img align="center" alt="Sand-CSS" height="30" width="100" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img align="center" alt="Sand-CSS" height="30" width="100" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Sand-CSS" height="30" width="120" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Sand-CSS" height="30" width="80" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
   <img align="center" alt="Sand-CSS" height="30" width="80" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Sand-CSS" height="30" width="80" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
