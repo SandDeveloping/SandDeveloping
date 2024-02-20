@@ -1,7 +1,7 @@
 
 ## Heyy dev, My name is Manuel, better known than Sand Developer!
 
-Sou desenvolvendor Front end em busca do back end!
+Sou desenvolvendor Front end em busca do Back end!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sand-Js" height="30" width="70" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
