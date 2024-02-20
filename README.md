@@ -4,7 +4,7 @@
 Sou desenvolvendor Front end em busca do Back end!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Sand-Js" height="30" width="80" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Sand-Js" height="30" width="80" src="https://img.shields.io/badge/React-%230f172a?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img align="center" alt="Sand-Ts" height="30" width="80" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
   <img align="center" alt="Sand-React" height="30" width="120" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img align="center" alt="Sand-HTML" height="30" width="80" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
